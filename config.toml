@@ -1,6 +1,6 @@
 baseurl = "https://sazanaminoya.github.io/defragmyhead/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "tale"
+theme = "dusk"
 canonifyurls = true
 publishDir = "docs"
